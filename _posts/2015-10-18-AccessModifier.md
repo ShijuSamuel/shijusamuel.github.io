@@ -28,6 +28,6 @@ language syntax used to facilitate the encapsulation of components.”
 - class marked sealed cannot be inherited
 
 ### References
-[CodeProject:All About C# Access Modifiers ](http://www.codeproject.com/Articles/792326/Diving-into-OOP-Day-All-About-Csharp-Access-Modifi)
-[MSDN:Accessibility Levels](https://msdn.microsoft.com/en-us/library/ba0a1yw2.aspx)
-[MSDN:Modifiers](https://msdn.microsoft.com/en-us/library/6tcf2h8w.aspx)
+- [CodeProject:All About C# Access Modifiers ](http://www.codeproject.com/Articles/792326/Diving-into-OOP-Day-All-About-Csharp-Access-Modifi)
+- [MSDN:Accessibility Levels](https://msdn.microsoft.com/en-us/library/ba0a1yw2.aspx)
+- [MSDN:Modifiers](https://msdn.microsoft.com/en-us/library/6tcf2h8w.aspx)
